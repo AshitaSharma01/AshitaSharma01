@@ -6,7 +6,14 @@ I am a 3rd year CS student focused on bridging the gap between robust Full-Stack
 ---
 
 ### 🔍 Research Spotlight
+Multi-lighting Condition Adaptation Using Transfer Learning
+Objective: Addressed the challenge of computer vision model degradation in varied lighting environments (low light, overexposure).
 
+Core Innovation: Developed a transfer learning framework to adapt pre-trained models to diverse atmospheric conditions without requiring massive new datasets.
+
+Tech Stack: Python, PyTorch/TensorFlow, OpenCV, Transfer Learning (CNNs).
+
+Published in the book Recent Advancements in Artificial Intelligence by Springer.
 
 ---
 
@@ -14,9 +21,9 @@ I am a 3rd year CS student focused on bridging the gap between robust Full-Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), SQL (PostgreSQL/MySQL), HTML/CSS |
-| **Frontend** | React.js, Vite, Material UI (MUI), Emotion |
-| **Backend** | Node.js, Express, RESTful APIs |
+| **Languages** | Python, JavaScript (ES6+), SQL , HTML/CSS |
+| **Frontend** | React.js, Vite, Material UI (MUI) |
+| **Backend** | Node.js, RESTful APIs |
 | **AI/ML** | PyTorch, LLMs, Prompt Engineering, Hallucination Research |
 | **Tools** | Git, GitHub, VS Code, Postman |
 
