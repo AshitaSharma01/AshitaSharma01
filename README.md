@@ -33,6 +33,8 @@ Published in the book Recent Advancements in Artificial Intelligence by Springer
 
 ### 🌟 Key Projects
 * **BrightBuddy:** is a voice-enabled AI companion, you should describe it in a way that highlights your ability to handle complex browser APIs (like Web Speech) and UI/UX features like Dark Mode.
+* **Virtual Mouse using Hand Gesture:** Virtual Mouse is a gesture-controlled interface that allows users to navigate their computer system without physical hardware. By leveraging Computer Vision, the application translates hand movements into cursor actions in real-time.
+* **AI Resume Parser:** It is a sophisticated Natural Language Processing (NLP) tool that transforms unstructured PDF/DOCX resumes into standardized JSON data. Unlike basic parsers, this system uses Large Language Models to understand context—distinguishing between a "Project Title" and "Work Experience" with high precision.
 * **DBMS Systems:** Designed complex triggers, stored procedures, and optimized SQL queries for high-performance data management.
 * **UI/UX Experiments:** Modern rustic-inspired design projects focusing on clean, accessible interfaces.
 
